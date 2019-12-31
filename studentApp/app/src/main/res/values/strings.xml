@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">studentApp</string>
+
+    <string name="ID">ID</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Gender">Gender</string>
+    <string name="DOB">DOB</string>
+    <string name="Class">Class</string>
+    <string name="Subjects">Subjects</string>
+    <string name="Submit">Submit</string>
+    <string name="ClearAll">ClearAll</string>
+</resources>

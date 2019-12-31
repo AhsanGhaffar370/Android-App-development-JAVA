@@ -1,0 +1,4 @@
+#Mon Dec 16 15:56:44 PKT 2019
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\TicTacGame\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">multiscreen(intents)</string>
+
+    <string name="t1"></string>
+    <string name="t2">fodd_items</string>
+
+    <string name="i">Items</string>
+    <string name="i1">Item1:</string>
+    <string name="i2">Item2:</string>
+    <string name="i3">Item3:</string>
+
+    <string name="name">Names</string>
+    <string name="name1"></string>
+    <string name="name2"></string>
+    <string name="name3"></string>
+
+    <string name="quantity">Quantity</string>
+    <string name="quantity1"></string>
+    <string name="quantity2"></string>
+    <string name="quantity3"></string>
+
+
+    <string name="btn">Place Order</string>
+
+
+    <string name="t11">Order Successfully Placed</string>
+    <string name="t22">You Ordered</string>
+    <string name="t23">You Order in ListView</string>
+    <string name="t24">You Order in GridView</string>
+    <string name="web">You Order in WebView</string>
+
+    <string name="q1">quantity</string>
+    <string name="item">Item</string>
+
+
+
+    <string name="biryani">Biryani Ordered successfully</string>
+    <string name="pulao">pulao Ordered successfully</string>
+    <string name="salad">salad Ordered successfully</string>
+
+</resources>

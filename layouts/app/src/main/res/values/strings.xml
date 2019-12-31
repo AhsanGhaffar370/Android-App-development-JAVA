@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">layouts</string>
+    <string name="send_message">send</string>
+    <string name="write_message">enterText</string>
+    <string name="clear_message">clear</string>
+    <string name="next_screen">Goto Table Layout</string>
+
+
+
+
+    <string name="layout">Table Layout</string>
+    <string name="name_lb">Enter Name:</string>
+    <string name="enter">Enter</string>
+    <string name="name_txt"></string>
+    <string name="name_pl">Please Enter Your Name</string>
+
+</resources>

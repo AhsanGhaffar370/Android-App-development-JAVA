@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicTac_ahsan</string>
+    <string name="welcome">Welcome To Tic-Tac-Toe</string>
+    <string name="s1">Player1 Turn to play</string>
+    <string name="p1">Player1</string>
+    <string name="p2">Player2</string>
+    <string name="p1_score">0</string>
+    <string name="p2_score">0</string>
+    <string name="colon">:</string>
+    <string name="clear">Restart</string>
+    <string name="Draw">Draw</string>
+
+    <string name="play">Lets Play</string>
+    <string name="seeries">Series</string>
+    <string name="ser">Start Series</string>
+    <string name="new1">Start New Series</string>
+    <string name="emp"></string>
+</resources>
